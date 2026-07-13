@@ -8,8 +8,8 @@ export function Footer() {
         <div className="grid gap-8 md:grid-cols-4">
           <div className="md:col-span-2">
             <Link href="/" className="mb-3 flex items-center gap-2">
-              <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-white">
-                <img src="/bizventure-in.png" alt="BizVenture India Ecosystem Logo" className="object-contain" />
+              <div className="flex h-9 w-9 items-center justify-center rounded bg-white">
+                <img src="/bizventure-logo.png" alt="BizVenture India Ecosystem Logo" className="object-contain" />
               </div>
               <span className="text-lg font-bold text-foreground">
                 BizVenture India Ecosystem
