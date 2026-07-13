@@ -46,8 +46,8 @@ export function Navbar() {
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 lg:px-6">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2">
-          <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-white">
-            <img src="/bizventure-in.png" alt="BizVenture India Ecosystem Logo" className="object-contain" />
+          <div className="flex h-9 w-9 items-center justify-center rounded bg-white">
+            <img src="/bizventure-logo.png" alt="BizVenture India Ecosystem Logo" className="object-contain" />
             </div>
           <div className="flex flex-col">
             <span className="text-sm font-bold leading-none tracking-tight text-foreground">
